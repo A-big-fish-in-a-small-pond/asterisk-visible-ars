@@ -30,4 +30,4 @@ Github © [Page](https://github.com/A-big-fish-in-a-small-pond/)
 
 ## License
 
-this is licensed under GNU LGPL Version 3 license.
+this is licensed under [MIT LICENSE](https://github.com/A-big-fish-in-a-small-pond/asterisk-visible-ars).
