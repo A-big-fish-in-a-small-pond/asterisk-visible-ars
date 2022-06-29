@@ -10,8 +10,8 @@ It is a system that automatically connects web pages that can guide the voice at
 
 ## FCM Service Contents
 
- > Server : Nodejs <br>
- > Client : Android
+Server : Nodejs <br>
+Client : Android
 
 <br>
 
