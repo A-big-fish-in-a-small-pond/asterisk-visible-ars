@@ -19,14 +19,20 @@ It is a system that automatically connects web pages that can guide the voice at
 3. The FCM client app installed through the FCM server will wake up, and the FCM client app will wake up the Internet Browser.
 4. Access the web page with an Internet browser. The click event occurs through ARI when you connect.
 
+<br>
+
 ## Contact
 
 [Junho Kim](libtv@naver.com) <br>
 [JongSun Park](ahrl1994@gmail.com)
 
+<br>
+
 ## HomePage
 
 Github © [Page](https://github.com/A-big-fish-in-a-small-pond/)
+
+<br>
 
 ## License
 
